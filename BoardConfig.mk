@@ -1,5 +1,5 @@
 # Platform
-DEVICE_PATH := device/samsung/beyond2lte
+DEVICE_PATH := device/samsung/beyondx
 BOARD_VENDOR := samsung
 TARGET_BOARD_PLATFORM := exynos5
 TARGET_BOARD_PLATFORM_GPU := mali-g76

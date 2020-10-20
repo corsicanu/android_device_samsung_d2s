@@ -12,7 +12,7 @@
 /dev/block/platform/13d60000.ufs/by-name/misc           /misc       emmc    defaults                                                                                      defaults
 #/dev/block/platform/13d60000.ufs/by-name/recovery  /recovery           emmc      defaults                                               defaults
 
-# VOLD:fstab.beyond2lte
+# VOLD:fstab.beyondx
 /devices/platform/13d00000.dwmmc2/mmc_host*     auto    auto    default    voldmanaged=sdcard:auto
 /devices/platform/10c00000.usb*                 auto    vfat    default    voldmanaged=usb:auto
 

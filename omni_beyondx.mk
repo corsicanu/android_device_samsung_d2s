@@ -5,8 +5,8 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base_telephony.mk)
 $(call inherit-product, vendor/omni/config/common.mk)
 
 # Device identifier
-PRODUCT_DEVICE := beyond2lte
-PRODUCT_NAME := omni_beyond2lte
+PRODUCT_DEVICE := beyondx
+PRODUCT_NAME := omni_beyondx
 PRODUCT_BRAND := Samsung
-PRODUCT_MODEL := Galaxy S10+
+PRODUCT_MODEL := Galaxy S10 5G
 PRODUCT_MANUFACTURER := samsung
