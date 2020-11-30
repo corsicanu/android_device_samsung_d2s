@@ -7,7 +7,7 @@
 /system_root    ext4   /dev/block/platform/13d60000.ufs/by-name/system        flags=backup=1;display="System"
 /vendor         ext4   /dev/block/platform/13d60000.ufs/by-name/vendor        flags=backup=1;display="Vendor";wipeingui
 /product        ext4   /dev/block/platform/13d60000.ufs/by-name/product       flags=backup=1;display="Product";wipeingui
-/data           ext4   /dev/block/platform/13d60000.ufs/by-name/userdata      flags=encryptable=footer;length=-20480
+/data           f2fs   /dev/block/platform/13d60000.ufs/by-name/userdata      flags=encryptable=footer;length=-20480
 
 /system_image   emmc   /dev/block/platform/13d60000.ufs/by-name/system
 /vendor_image   emmc   /dev/block/platform/13d60000.ufs/by-name/vendor        flags=backup=1
