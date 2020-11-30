@@ -1,10 +1,10 @@
 # Platform
-DEVICE_PATH := device/samsung/beyondx
+DEVICE_PATH := device/samsung/d2s
 BOARD_VENDOR := samsung
 TARGET_BOARD_PLATFORM := exynos5
 TARGET_BOARD_PLATFORM_GPU := mali-g76
-TARGET_SOC := exynos9820
-TARGET_BOOTLOADER_BOARD_NAME := universal9820
+TARGET_SOC := exynos9825
+TARGET_BOOTLOADER_BOARD_NAME := universal9825
 TARGET_NO_BOOTLOADER := true
 TARGET_NO_RADIOIMAGE := true
 TARGET_USES_UEFI := true

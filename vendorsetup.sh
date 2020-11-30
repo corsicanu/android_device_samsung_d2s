@@ -14,5 +14,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo omni_beyondx-eng
+add_lunch_combo omni_d2s-eng
 
